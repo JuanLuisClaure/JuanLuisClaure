@@ -16,5 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "yo hice esto?"
-          MAX_LINES: 10
+          MAX_LINES: 11
