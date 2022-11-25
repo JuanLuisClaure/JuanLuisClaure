@@ -2,4 +2,4 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-![dada](/inventorTransform.gif)
+![dada](/assets/inventorTransform.gif)
