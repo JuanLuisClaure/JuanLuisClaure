@@ -6,4 +6,4 @@
 <h1 align="center">
   Hi, I'm un inventor 
 </h1>
-[dada](./inventorTransform.gif)
+![dada](inventorTransform.gif)
