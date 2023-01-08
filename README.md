@@ -7,11 +7,11 @@
 2. 👋 I like vainilla writing style, let the evidence speaks for itself. look how muchh ts [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLuisClaure&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 3. 👋 I made my own framework of JS using gulp and ESbuild. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanLuisClaure&repo=pwa-frmwrk)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ![dada](/assets/inventorTransform.gif)
 ![dada](/assets/mi_biografia_rapida.gif)
 
 
+masd ideas que viene despues de al mas mas mas
 
 
 
